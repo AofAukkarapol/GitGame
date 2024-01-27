@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aofza/Downloads/Gamejam/Game_jam-main/Game_jam-main/game_jam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/aofza/Downloads/Gamejam/Game_jam-main/Game_jam-main/game_jam/Content/Tam_O_Shanter.umap",
+				"C:/Users/aofza/Downloads/Gamejam/Game_jam-main/Game_jam-main/game_jam/Content/ThirdPerson/Blueprints/InvisibleBox.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/GUI/UI.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/GUI/NewBlueprint.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/GUI/Hit.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/H8/QZC9O7U523TCEYR4XEGXFJ.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KY/2AW0NM9JQADTMX9W0TGOF6.uasset",
+				"C:/Users/peto2/OneDrive/Documents/Unreal Projects/GAEM_JAM/Game_jam/game_jam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EF/XKRZAYIP1RHVZ7JPSJYCSU.uasset"
+			]
+		}
+	]
+}
